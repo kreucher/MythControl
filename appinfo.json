@@ -1,0 +1,9 @@
+{
+	"id": "net.kreucher.nick.webos.mythcontrol",
+	"version": "0.1.0",
+	"vendor": "Nicholas J Kreucher",
+	"type": "web",
+	"main": "index.html",
+	"title": "MythControl",
+	"icon": "icon.png"
+}
