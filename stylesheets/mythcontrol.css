@@ -1,1 +1,69 @@
-/* Put Application specific CSS here. */
+#main {
+    min-height: 320;
+    display: block;
+    margin-top: 50px;
+}
+
+#response {
+    margin-top: 10px;
+}
+
+#nav {
+    display: table;
+}
+
+div.row {
+    display: table-row;
+    width: auto;
+    clear: both;
+    margin-top: 7px;
+    height: 55px;
+}
+
+div.navbtn {
+    position: absolute;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.navbtn.up {
+    left: 41%;
+    width: 60px;
+}
+.navbtn.left {
+    left: 17%;
+    width: 60px;
+}
+.navbtn.select {
+    left: 34.5%;
+    width: 100px;
+}
+.navbtn.right {
+    right: 17%;
+    width: 60px;
+}
+.navbtn.down {
+    left: 41%;
+    width: 60px;
+}
+
+.navbtn.esc {
+    left: 0;
+    width: 50px;
+    height: 50px;
+}
+.navbtn.menu {
+    right: 0;
+    width: 50px;
+    height: 50px;
+}
+.navbtn.pause {
+    left: 0;
+    width: 50px;
+    height: 50px;
+}
+.navbtn.info {
+    right: 0;
+    width: 50px;
+    height: 50px;
+}
