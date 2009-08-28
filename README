@@ -1,0 +1,32 @@
+-------------------------------
+MythControl
+-------------------------------
+
+WARNING: MythControl is pre-alpha software!
+
+WARNING: Currently, you must hard code in your frontend url in
+WARNING: MainAssistant.prototype.sendToMyth within
+WARNING: app/assistants/main-assistant.js
+
+The goal is to create a usable Palm Pre app to act as a remote
+control for MythTV.
+
+FEATURES
+-------------------------------
+* basic navigation
+* basic status reporting
+
+TODO
+-------------------------------
+* editable listing of frontends to pick from
+* more nav buttons
+
+License:
+-------------------------------
+GNU GPLv3
+
+Author:
+-------------------------------
+Nicholas J Kreucher
+nick@kreucher.net
+
